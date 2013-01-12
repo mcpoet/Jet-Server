@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="binaries/jetserver-0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="binaries/jetserver-0.1-sources.jar"/>
+	<classpathentry kind="lib" path="binaries/jetserver-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/aspectjrt-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/aspectjtools-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/blazeds-common-3.2.0.3978.jar"/>
+	<classpathentry kind="lib" path="lib/blazeds-core-3.2.0.3978.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jetlang-0.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.2.7.Final.jar" sourcepath="C:/Users/marro/.m2/repository/org/jboss/netty/netty/3.2.7.Final/netty-3.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-asm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
